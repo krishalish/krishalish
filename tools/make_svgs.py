@@ -91,31 +91,17 @@ def pill(x, y, s, colour='orange', size=12, pad=10, h=24):
 
 # ------------------------------------------------------------------ cards
 def header():
-    name, line2, line3 = 'Krish Ahir', 'BSc Statistics @ UCL · London', \
-        'risk modelling · quantitative finance · statistical computing'
+    name, line2 = 'Krish Ahir', 'BSc Statistics @ UCL'
     body = (t(36, 74, '>', 36, 'o b') + t(36 + text_width('> ', 36), 74, name, 36, 'b')
             + f'<rect class="cur" x="{36 + text_width("> " + name + " ", 36)}" y="46" width="14" height="34" fill="{ORANGE}"/>'
-            + t(38, 116, line2, 16)
-            + t(38, 146, line3, 13.5, 'm'))
-    return svg(184, body, f'{name}. {line2}. {line3}.', name + line2 + line3)
+            + t(38, 116, line2, 16))
+    return svg(152, body, f'{name}. {line2}.', name + line2)
 
 
 def about():
-    # (bullet, text): a blank bullet continues the line above
-    lines = [
-        ('·', 'First-year BSc Statistics student at UCL (2026–29).'),
-        ('·', 'Interested in market risk, volatility modelling and'),
-        (' ', 'turning messy data into clear decisions.'),
-        ('·', 'First-Year Rep (Research), UCL Data Science Society.'),
-        ('·', 'IPQ research: can intraday trading be called gambling?'),
-    ]
-    body = heading(32, 44, 'about')
-    y = 82
-    for bullet, line in lines:
-        body += t(34, y, bullet, 13.5, 'ot') + t(56, y, line, 13.5)
-        y += 26
-    text = ' '.join(line for _, line in lines)
-    return svg(y + 8, body, 'About: ' + text, 'about' + text)
+    text = 'Student interested in data science and machine learning, studying at UCL.'
+    body = heading(32, 44, 'about') + t(34, 82, text, 13.5)
+    return svg(108, body, 'About: ' + text, 'about' + text)
 
 
 def stack():

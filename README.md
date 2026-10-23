@@ -1,6 +1,6 @@
-<img src="assets/header.svg" width="100%" alt="Krish Ahir. BSc Statistics @ UCL, London. Risk modelling, quantitative finance, statistical computing.">
+<img src="assets/header.svg" width="100%" alt="Krish Ahir. BSc Statistics @ UCL.">
 
-<img src="assets/about.svg" width="100%" alt="About: first-year BSc Statistics student at UCL (2026–29). Interested in market risk, volatility modelling and turning messy data into clear decisions. First-Year Rep (Research), UCL Data Science Society. IPQ research: can intraday trading be called gambling?">
+<img src="assets/about.svg" width="100%" alt="About: student interested in data science and machine learning, studying at UCL.">
 
 <img src="assets/stack.svg" width="100%" alt="Stack. Languages: Python, R, LaTeX. Libraries: NumPy, pandas, SciPy, arch, matplotlib, yfinance. Tools: Git, VS Code, Cursor, Jupyter. Speaks: English, Spanish.">
 
