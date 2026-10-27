@@ -6,4 +6,4 @@
 
 <a href="https://github.com/krishalish/value-at-risk"><img src="assets/featured.svg" width="100%" alt="Featured project, value-at-risk: one-day VaR for a 5-stock portfolio, backtested on the April 2025 tariff sell-off."></a>
 
-<a href="https://www.linkedin.com/in/krish-ahir"><img src="assets/connect.svg" width="100%" alt="Connect on LinkedIn"></a>
+<a href="https://www.linkedin.com/in/krish-ahir-386b23375/"><img src="assets/connect.svg" width="100%" alt="Connect on LinkedIn"></a>
