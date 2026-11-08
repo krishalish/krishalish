@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Krish Ahir. BSc Statistics @ UCL.">
+<img src="assets/header.svg" width="100%" alt="Krish Ahir. BSc Statistics @ UCL. Student interested in DS/ML &amp; Robotics.">
 
 <img src="assets/about.svg" width="100%" alt="About: student interested in data science and machine learning, studying at UCL.">
 
