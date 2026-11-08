@@ -1,6 +1,6 @@
 <img src="assets/header.svg" width="100%" alt="Krish Ahir. BSc Statistics @ UCL. Student interested in DS/ML &amp; Robotics.">
 
-<img src="assets/about.svg" width="100%" alt="About: student interested in data science and machine learning, studying at UCL.">
+<img src="assets/about.svg" width="100%" alt="About: Student interested in DS/ML &amp; Robotics.">
 
 <img src="assets/stack.svg" width="100%" alt="Stack. Languages: Python, R, LaTeX. Libraries: NumPy, pandas, SciPy, arch, matplotlib, yfinance. Tools: Git, VS Code, Cursor, Jupyter. Speaks: English, Spanish.">
 
